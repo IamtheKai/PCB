@@ -1,0 +1,11 @@
+Added Component: Designator=U7(LM317LCPK)
+Added Component: Designator=U8(LM317LCPK)
+Added Pin To Net: NetName=NetR4_2 Pin=U7-1
+Added Pin To Net: NetName=NetC3_1 Pin=U7-2
+Added Pin To Net: NetName=NetC2_1 Pin=U7-3
+Added Pin To Net: NetName=NetR6_2 Pin=U8-1
+Added Pin To Net: NetName=NetC1_1 Pin=U8-2
+Added Pin To Net: NetName=NetC2_1 Pin=U8-3
+Added Member To Class: ClassName=PCB_01 Member=Component U7 Power Regulator
+Added Member To Class: ClassName=PCB_01 Member=Component U8 Power Regulator
+Added Room: Name=PCB_01

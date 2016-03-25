@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=D1 3V3 NewDesignator=D1     3.3V
+Added Component: Designator=C7(RAD-0.3)
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC3_1 Pin=C7-2
+Added Member To Class: ClassName=PCB_01 Member=Component C7 Cap
+Added Member To Class: ClassName=PCB_01 Member=Component U6 DF40(3)_70Pin
+Added Member To Class: ClassName=PCB_01 Member=Component U7 Power Regulator
+Change Room Name: Old Name=BGA New Name=PCB_01
+Change Room Scope: Old Scope=InComponentClass('Room Definition 1') New Scope=InComponentClass('PCB_01')
